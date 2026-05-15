@@ -19,6 +19,7 @@ This project focuses on HR analytics and dashboard creation using multiple tools
 
  📂 Files Included
 - HR datasets
+- MYSQL SQL queries
 - Excel dashboard
 - Power BI dashboard
 - Tableau dashboard
